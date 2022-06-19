@@ -1,0 +1,54 @@
+{
+    "profile" : {
+        "fullName" : "Madjid Boudis",
+        "pic" : "/profile.png" ,
+        "address" : "Paris, France",
+        "countryCode" : "FR",
+        "title" : "Looking for apprenticeship",
+        "domains" : ["Software" , "Frontend" , "Backend" ,"Full Stack"] ,
+        "profile" : ["Engineer" , "Developer"]
+    },
+    "navData" :[
+        {"title" : "profile" , "pos": "0" ,"image" : "/profile.svg"},
+        {"title" : "Skills" , "pos": "1" ,"image" : null},
+        {"title" : "Projects" , "pos": "2" ,"image" : null},
+        {"title" : "Career" , "pos": "3" ,"image" : null },
+        {"title" : "Explore" , "pos": "4" ,"image" : null },
+        {"title" : "Contacts" , "pos": "4" ,"image" : null },
+        {"title" : "DownloadCV" , "pos": "5" ,"image" : "/cv.svg" }
+    ],
+    "progLangs" :[
+        {"title" : "Javascript" , "level": 0.95 , "logo" :"/langs/js.svg"},
+        {"title" : "Python" , "level": 0.9 , "logo" :"/langs/python.svg"},
+        {"title" : "Java" , "level": 0.8 , "logo" :"/langs/java.svg"},
+        {"title" : "Koltin" , "level": 0.8 , "logo" :"/langs/kotlin.svg"},
+        {"title" : "Php" , "level": 0.6 , "logo" :"/langs/php.svg"},
+        {"title" : "CSS" , "level": 0.9 , "logo" :"/langs/css.svg"},
+        {"title" : "SQL" , "level": 0.9 , "logo" :"/langs/SQL.svg"},
+        {"title" : "C/C++/C#" , "level": 0.7, "logo" :"/langs/C.svg"}
+    ],
+    "frameworks":[
+        {"title" : "React" , "logo" :"/framworks/react.svg", "level": null},
+        {"title" : "Vue" , "logo" :"/framworks/vue.svg", "level": null},
+        {"title" : "Angular" , "logo" :"/framworks/angular.svg", "level": null},
+        {"title" : "Django" , "logo" :"/framworks/django.svg", "level": null},
+        {"title" : "NextJS" , "logo" :"/framworks/next.svg", "level": null},
+        {"title" : "NuxtJS" , "logo" :"/framworks/nuxt.svg", "level": null}
+    ],
+    "tools":[
+        {"title" : "Jenkins" , "logo" :"/tools/jenkins.svg", "level": null},
+        {"title" : "Git" , "logo" :"/tools/git.svg", "level": null},
+        {"title" : "Docker" , "logo" :"/tools/docker.svg", "level": null},
+        {"title" : "Appache" , "logo" :"/tools/appache.svg", "level": null}
+    ],
+    "languages":[
+        {"title" : "English" , "logo" :"/languages/eng.svg", "level": null , "comment" : "Advanced"},
+        {"title" : "French" , "logo" :"/languages/france.svg", "level": null ,  "comment" : "Native"}
+    ],
+    "projects":[
+        {"name" : "Les Sherpas" , "title" : "Web App" ,"domain": "Frontend", "image" :"/projects/eng.png" , "link":"wwww.leshserpas.co/"},
+        {"name" : "Les Sherpas" , "title" : "Web App" ,"domain": "Frontend", "image" :"/projects/eng.png" , "link":"wwww.leshserpas.co/"},
+        {"name" : "Les Sherpas" , "title" : "Web App" ,"domain": "Frontend", "image" :"/projects/eng.png" , "link":"wwww.leshserpas.co/"}
+    ]
+
+}
